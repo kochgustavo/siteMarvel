@@ -3,3 +3,9 @@
     width: 90%;
   }
 }
+
+.slider .slides li img {
+	
+  background-size: cover;
+  background-position: center;
+}
